@@ -13,7 +13,15 @@ title = 'About'
 - 音乐爱好者，喜欢听Melodic Dubstep，Future Bass，Kawaii Bass，Complexro，Future Bounce  
 - 技术宅，偶尔给喜欢的项目做点贡献，喜欢倒腾各种东西  
 - PT玩家，现U2，SkyeySnow活跃/保种  
-- 游戏爱好者，喜欢FPS  战地5飞机佬兼AA人（什么鬼...）
+- 游戏爱好者，喜欢FPS，战地5飞机佬兼AA人（什么鬼...）
+
+## 找到我
+你可以在这里找到我
+- [Bangumi](https://bgm.tv/user/shizukinatsuki)
+- [GitHub](https://github.com/ShizukiNatsuki)
+- [LastFM](https://www.last.fm/user/ShizukiNatsuki)
+- [Steam](https://steamcommunity.com/id/ShizukiNatsuki)
+- [X-Twitter](https://x.com/ShizukiNatsuki)
 
 # 关于站点
 无特殊说明，本站文章采用[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)协议
