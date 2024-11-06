@@ -1,6 +1,11 @@
 +++
 date = '2024-11-06T15:17:20+08:00'
 draft = false
+
+series = ['应用推荐']
+categories = ['伪技术']
+tags = ['iOS', '阅读器']
+
 title = 'Aidoku - iOS 上的漫画阅读器，Tachiyomi 代替品'
 +++
 
